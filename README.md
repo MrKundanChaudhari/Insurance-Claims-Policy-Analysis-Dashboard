@@ -11,27 +11,27 @@ To analyze insurance data and provide insights into premium collection, claim di
 
 •	Key Fields: 
 
-  o	Policy Number 
-
-  o	Claim Number 
+    o	Policy Number 
   
-  o	Customer ID 
-  
-  o	Premium Amount 
-  
-  o	Coverage Amount 
-  
-  o	Claim Amount 
-  
-  o	Policy Type (Travel, Health, Auto, Life, Home) 
-  
-  o	Claim Status (Rejected, Settled, Pending) 
-  
-  o	Gender 
-  
-  o	Age Group 
-  
-  o	Active/Inactive Status
+    o	Claim Number 
+    
+    o	Customer ID 
+    
+    o	Premium Amount 
+    
+    o	Coverage Amount 
+    
+    o	Claim Amount 
+    
+    o	Policy Type (Travel, Health, Auto, Life, Home) 
+    
+    o	Claim Status (Rejected, Settled, Pending) 
+    
+    o	Gender 
+    
+    o	Age Group 
+    
+    o	Active/Inactive Status
 
 ❓Key Business Questions
 
