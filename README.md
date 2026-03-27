@@ -6,6 +6,7 @@ An interactive Power BI dashboard that analyzes insurance policies, premiums, an
 To analyze insurance data and provide insights into premium collection, claim distribution, customer segmentation, and policy performance to improve business decision-making.
 
 📊 Dataset Used
+
 •	Insurance Dataset 
 •	Key Fields: 
   o	Policy Number 
@@ -21,6 +22,7 @@ To analyze insurance data and provide insights into premium collection, claim di
   o	Active/Inactive Status
 
 ❓Key Business Questions
+
   •	What is the total premium, coverage, and claim amount? 
   •	Which policy type generates the highest premium? 
   •	What is the claim status distribution (Rejected, Settled, Pending)? 
@@ -29,6 +31,7 @@ To analyze insurance data and provide insights into premium collection, claim di
   •	Which policy types have higher claim settlements or rejections?
 
 ⚙️ Process Followed
+
   1.	Data Cleaning (handled missing values, corrected data types) 
   2.	Data Transformation in Power BI 
   3.	Created DAX Measures (Total Premium, Total Claims, etc.) 
@@ -42,6 +45,7 @@ To analyze insurance data and provide insights into premium collection, claim di
   6.	Dashboard Design & Formatting
 
 📈 Dashboard Features
+
   •	KPI Cards showing Total Premium (4.27M), Coverage (427.40M), Claim Amount (12.06M) 
   •	Policy Type-wise Premium Analysis 
   •	Claim Status Distribution 
@@ -49,10 +53,12 @@ To analyze insurance data and provide insights into premium collection, claim di
   •	Active vs Inactive Customer Ratio 
   •	Detailed Table of Claims by Policy Type
 
-📊 View DashBoard <img width="1168" height="664" alt="DashBoard" src="https://github.com/user-attachments/assets/62f806d2-d5b7-4edb-bd35-f9e0ecf0977a" />
+📊 View DashBoard 
+<img width="1168" height="664" alt="DashBoard" src="https://github.com/user-attachments/assets/62f806d2-d5b7-4edb-bd35-f9e0ecf0977a" />
 
 
 💡 Project Insights
+
   •	Travel and Health policies generate the highest premium revenue 
   •	Majority of customers are Active (~71%) 
   •	Adults contribute the highest claim amount, while young adults contribute the least 
@@ -60,6 +66,7 @@ To analyze insurance data and provide insights into premium collection, claim di
   •	Auto and Health policies show higher claim activity
 
 ✅ Final Conclusion
+
   This dashboard provides a comprehensive overview of insurance performance, helping businesses:
     •	Optimize policy offerings 
     •	Improve claim approval strategies 
