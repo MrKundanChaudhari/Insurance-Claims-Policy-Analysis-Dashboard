@@ -45,7 +45,8 @@ To analyze insurance data and provide insights into premium collection, claim di
   
   •	What is the ratio of active vs inactive customers? 
   
-  •	Which policy types have higher claim settlements or rejections?
+  •	<a href = "https://github.com/MrKundanChaudhari/Insurance-Claims-Policy-Analysis-Dashboard/blob/main/DashBoard.png">DashBoard InterAction </a>
+  
 
 ⚙️ Process Followed
 
