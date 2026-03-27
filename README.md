@@ -59,15 +59,15 @@ To analyze insurance data and provide insights into premium collection, claim di
   
   5.	Built Visualizations: 
 
-  o	KPI Cards (Premium, Coverage, Claim Amount) 
-      
-  o	Bar Charts (Policy Type Analysis) 
-      
-  o	Donut Chart (Active vs Inactive) 
-      
-  o	Area Chart (Age Group Analysis) 
-      
-  o	Table (Policy-wise Claim Breakdown) 
+      o	KPI Cards (Premium, Coverage, Claim Amount) 
+          
+      o	Bar Charts (Policy Type Analysis) 
+          
+      o	Donut Chart (Active vs Inactive) 
+          
+      o	Area Chart (Age Group Analysis) 
+          
+      o	Table (Policy-wise Claim Breakdown) 
   
   7.	Dashboard Design & Formatting
 
